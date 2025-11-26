@@ -1,0 +1,8 @@
+PORT=5000
+NODE_ENV=development
+DATABASE_URI=mongodb://localhost:27017/auth-webskitters
+ACCESS_TOKEN_SECRET=ihhaerhurhugigiegiheggihihtgigtihgihgtihgihtgihihight
+ACCESS_TOKEN_EXPIRES_IN=1d
+CLOUDINARY_CLOUD_NAME=dl6htbdus
+CLOUDINARY_API_KEY=145826393594879
+CLOUDINARY_API_SECRET=ApyY8CfL9cMB1zaDAnwO9kxbCRw
